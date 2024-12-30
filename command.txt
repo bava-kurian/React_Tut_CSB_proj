@@ -1,3 +1,0 @@
-npx create-react-app todo-app # create react-app
-cd todo-app #chage directory
-npm start   #start react app
